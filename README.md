@@ -35,6 +35,10 @@ category, the `--no-turbines` flag does not output the turbine patches in the
 
 The `demo` directory contains PNGs of some sample input sketches.
 
+Note that the meshes output by the demo script may have non-manifold discontinuities between patches due to
+discretization artifacts. This can be avoided by choosing the number of subdivisions based on patch boundary
+arc lengths. The results shown in the paper are all computed in this way.
+
 ### BibTeX
 ```
 @inproceedings{smirnov2021patches,
