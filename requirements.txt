@@ -1,0 +1,2 @@
+Pillow==8.1.0
+torch-tools==0.1.4

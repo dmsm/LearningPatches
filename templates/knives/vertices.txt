@@ -1,0 +1,96 @@
+Junction 72 84 85 9 0.631579
+RegularVertex -0.005 -0.14 -0.055
+RegularVertex 0.005 -0.14 -0.055
+Junction 6 79 80 67 0.368421
+DependentVertex
+DependentVertex
+RegularVertex 0.015 -0.49 -0.055
+RegularVertex 0.005 -0.49 -0.055
+RegularVertex -0.005 -0.49 -0.055
+RegularVertex -0.015 -0.49 -0.055
+DependentVertex
+DependentVertex
+RegularVertex 0.015 -0.49 0.055
+DependentVertex
+DependentVertex
+Junction 40 77 78 12 0.631579
+RegularVertex 0.005 -0.14 0.055
+RegularVertex -0.005 -0.14 0.055
+Junction 21 86 87 81 0.368421
+DependentVertex
+DependentVertex
+RegularVertex -0.015 -0.49 0.055
+RegularVertex -0.005 -0.49 0.055
+RegularVertex 0.005 -0.49 0.055
+RegularVertex 0.015 -0.49 -0.015
+RegularVertex 0.015 -0.49 0.015
+RegularVertex -0.015 -0.49 0.015
+RegularVertex -0.015 -0.49 -0.015
+RegularVertex 0.015 -0.14 0.11
+RegularVertex 0.015 0.06 0.11
+RegularVertex 0.015 0.26 0.11
+RegularVertex 0.015 0.46 0.11
+RegularVertex 0.005 0.46 0.11
+RegularVertex -0.005 0.46 0.11
+RegularVertex -0.015 0.46 0.11
+RegularVertex -0.015 0.26 0.11
+RegularVertex -0.015 0.06 0.11
+RegularVertex -0.015 -0.14 0.11
+RegularVertex -0.005 -0.14 0.11
+RegularVertex 0.005 -0.14 0.11
+Junction 31 94 95 50 0.25
+DependentVertex
+DependentVertex
+RegularVertex 0.015 -0.14 0.09
+RegularVertex 0.015 -0.14 0.07
+DependentVertex
+DependentVertex
+RegularVertex -0.015 0.46 -0.11
+RegularVertex -0.005 0.46 -0.11
+RegularVertex 0.005 0.46 -0.11
+RegularVertex 0.015 0.46 -0.11
+RegularVertex 0.015 0.26 -0.11
+RegularVertex 0.015 0.06 -0.11
+RegularVertex 0.015 -0.14 -0.11
+RegularVertex 0.005 -0.14 -0.11
+RegularVertex -0.005 -0.14 -0.11
+RegularVertex -0.015 -0.14 -0.11
+RegularVertex -0.015 0.06 -0.11
+RegularVertex -0.015 0.26 -0.11
+RegularVertex 0.015 -0.14 -0.09
+RegularVertex 0.015 -0.14 -0.07
+RegularVertex -0.015 -0.14 -0.07
+RegularVertex -0.015 -0.14 -0.09
+RegularVertex -0.015 -0.14 0.09
+RegularVertex -0.015 -0.14 0.07
+DependentVertex
+DependentVertex
+Junction 31 94 95 50 0.75
+DependentVertex
+DependentVertex
+DependentVertex
+DependentVertex
+Junction 47 92 93 34 0.25
+DependentVertex
+DependentVertex
+DependentVertex
+DependentVertex
+RegularVertex 0.015 0.14 0.055
+RegularVertex 0.015 -0.17 0.055
+RegularVertex 0.015 -0.17 -0.055
+RegularVertex 0.015 0.14 -0.055
+Junction 47 92 93 34 0.75
+DependentVertex
+DependentVertex
+RegularVertex -0.015 0.14 -0.055
+RegularVertex -0.015 -0.17 -0.055
+RegularVertex -0.015 -0.17 0.055
+RegularVertex -0.015 0.14 0.055
+DependentVertex
+DependentVertex
+DependentVertex
+DependentVertex
+RegularVertex -0.015 0.46 -0.035
+RegularVertex -0.015 0.46 0.035
+RegularVertex 0.015 0.46 0.035
+RegularVertex 0.015 0.46 -0.035
