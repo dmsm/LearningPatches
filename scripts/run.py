@@ -87,7 +87,7 @@ def main(args):
             face_idxs[i, j] = k
     face_idxs = th.from_numpy(face_idxs.astype(np.int64))
 
-    init_params = th.tensor(init_params).squeeze()
+    init_params = th.tensor(init_params).squeeze().float()
 
     model = ReconstructionModel(len(init_params), init=init_params)
     model.to(device)
